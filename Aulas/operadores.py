@@ -17,3 +17,14 @@ print(x)
 print(y)
 
 #Operadores de comparação 
+
+saldo = 200
+saque = 200
+
+print(saque == saldo)
+print(saque != saldo)
+print(saque > saldo)
+print(saque >= saldo)
+print(saque < saldo)
+print(saque <= saldo)
+
