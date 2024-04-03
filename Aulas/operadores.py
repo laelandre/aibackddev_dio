@@ -28,3 +28,4 @@ print(saque >= saldo)
 print(saque < saldo)
 print(saque <= saldo)
 
+# Operadores de Atribuição
