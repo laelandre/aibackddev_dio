@@ -47,3 +47,12 @@ saldo2 //= 200
 print(saldo2)
 saldo2 *= 200
 print(saldo2)
+
+# Operadores Logicos and or e not
+
+# Operadores de identidade
+q = 1000
+w = 500
+
+print(q is w)
+print(q is not w)
