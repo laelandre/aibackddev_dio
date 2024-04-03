@@ -15,3 +15,5 @@ y = 10/2 + (25*2) - (2**2)
 
 print(x)
 print(y)
+
+#Operadores de comparação 
