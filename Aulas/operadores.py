@@ -29,3 +29,21 @@ print(saque < saldo)
 print(saque <= saldo)
 
 # Operadores de Atribuição
+saldo2 = 500
+
+print(saldo2)
+
+saldo2 = 200
+
+print(saldo2)
+
+saldo2 += 200
+print(saldo2)
+saldo2 -= 200
+print(saldo2)
+saldo2 /= 200
+print(saldo2)
+saldo2 //= 200
+print(saldo2)
+saldo2 *= 200
+print(saldo2)
