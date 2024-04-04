@@ -56,3 +56,9 @@ w = 500
 
 print(q is w)
 print(q is not w)
+print ("###########")
+# Operadores Associação
+frutas = ["limao","uva"]
+
+print( "laranja" not in frutas)
+print( "limao" in frutas)
