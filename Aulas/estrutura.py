@@ -18,3 +18,16 @@ if idade >= MAIOR_IDADE:
 
 if idade < MAIOR_IDADE:
     print("ainda não pode tirar a CNH")
+
+# Estrutura de Repetição
+texto = input("informe um texto: ")
+VOGAIS = "AEIOU"
+
+for letra in texto:
+    if letra.upper() in VOGAIS:
+        print(letra, end="")
+
+print()
+
+for numero in range (0, 51,5):
+    print(numero, end=" ")
