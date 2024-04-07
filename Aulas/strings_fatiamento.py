@@ -27,4 +27,13 @@ print("Nome: %s Idade: %s" % (nome2, idade))
 print("Nome:{} Idade:{}".format(nome2, idade))
 print("Nome:{name} idade:{age}".format(age=idade, name=nome2))
 
+# Fatiamento de String
 
+nome3 = "Andre Lael Rocha"
+
+print(nome3[0])
+print(nome3[-2])
+print(nome3[:9])
+
+
+# String mutiplas linhas
