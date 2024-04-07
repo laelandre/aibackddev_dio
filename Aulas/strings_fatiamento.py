@@ -14,6 +14,8 @@ print(texto.lstrip() + ".")
 menu= "Python"
 
 print(menu.center(14,"#"))
+print("-".join(menu))
+
 
 
 # Interpolação de Variaveis
