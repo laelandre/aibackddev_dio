@@ -37,3 +37,15 @@ print(nome3[:9])
 
 
 # String mutiplas linhas
+
+print("""
+    ############ MENU #############
+      
+    1- Depositar
+    2- Sacar
+    0- Sair
+      
+    ###############################
+
+        Obrigado por utilizar nosso sistema!!!
+      """)
