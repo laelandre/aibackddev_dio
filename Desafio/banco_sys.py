@@ -28,7 +28,16 @@ while True:
 
 
     elif opcao == 2:
-        print("Saque")
+        saque = float(input("Qual valor do saque: "))
+             
+        if saque < saldo:
+            saldo -= saque
+            print("Saque realizado")
+            numero_saques += 1
+            print(numero_saques)
+        elif saque> saldo:
+            print("Valor maior que seu saldo")
+
 
     elif opcao == 3:
         print("Extrato")
